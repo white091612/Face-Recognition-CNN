@@ -1,5 +1,4 @@
 # Face-Recognition-CNN
-
 https://github.com/kpzhang93/MTCNN_face_detection_alignment
 
 # Requirement
@@ -15,7 +14,7 @@ https://github.com/kpzhang93/MTCNN_face_detection_alignment
 7. Python 3.5(Only 3.5 Supporeted)
 
 # How to Install Requirements
-1. Unzip util.zip file
+1. Unzip util.zip file at https://drive.google.com/file/d/1yK5YUHSJcPg28tFU_8xS2-FR5rXzwO7O/view?usp=sharing
 2. Install all 6 files except .cmd file
 3. install vs_community.exe very first
 4. when install git, try to read option and check
