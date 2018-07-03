@@ -32,6 +32,6 @@ https://github.com/kpzhang93/MTCNN_face_detection_alignment
    - conda config --add channels willyd
    - conda install --yes cmake ninja numpy scipy protobuf==3.1.0 six scikit-image pyyaml pydotplus graphviz
 9. import caffe to confirm you installed all files correctly.
-10.install mtcnn with
+10. install mtcnn with
    - pip install mtcnn
     
