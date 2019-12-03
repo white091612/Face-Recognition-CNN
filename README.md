@@ -4,6 +4,9 @@ https://github.com/kpzhang93/MTCNN_face_detection_alignment
 #Slakc
 lgepoc.slack.com
 
+modification made
+
+
 # Requirement
 1. CUDA 
   - NVIDIA Homepage has this
