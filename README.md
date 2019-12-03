@@ -1,6 +1,9 @@
 # Face-Recognition-CNN
 https://github.com/kpzhang93/MTCNN_face_detection_alignment
 
+#Slakc
+lgepoc.slack.com
+
 # Requirement
 1. CUDA 
   - NVIDIA Homepage has this
